@@ -1,0 +1,7 @@
+streamlit
+llmlingua
+googletrans==4.0.0-rc1
+legacy-cgi
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+streamlit-authenticator==0.3.3
